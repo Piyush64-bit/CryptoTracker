@@ -117,8 +117,8 @@ Want to make this even more awesome? We love contributors! 🤝
 Built with 💖 by **PIYUSH SONI**
 
 Connect with me:
-- 🐙 **GitHub**: [@yourusername](https://github.com/piyush64-bit)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/piyush64bit)
+- 🐙 **GitHub**: [@piyush64-bit](https://github.com/piyush64-bit)
+- 💼 **LinkedIn**: [piyush64bit](https://linkedin.com/in/piyush64bit)
 - ✉️ **Email**: piiyush.sonii@outlook.com
 
 ## 📄 License
