@@ -28,16 +28,6 @@ Built for crypto enthusiasts, developers who love beautiful UIs, and anyone who 
 - 🎯 **Market Cap & 24h Changes** - All the essential data at a glance
 - 🌈 **Dynamic Color Coding** - Green for gains, red for losses (you know the drill!)
 
-## 📸 Screenshots
-
-> *Coming soon! This beauty deserves proper screenshots that do it justice* 📷
-
-```
-[Future screenshot of the stunning dashboard goes here]
-[GIF of the matrix rain effect in action]
-[Mobile responsive view showcase]
-```
-
 ## 🛠️ Tech Stack (The Cool Kids Club)
 
 - ⚛️ **React 18** - The foundation of our digital empire
@@ -124,13 +114,12 @@ Want to make this even more awesome? We love contributors! 🤝
 
 ## 🧑‍💻 Author & Creator
 
-Built with 💖 by **[Your Name]**
+Built with 💖 by **PIYUSH SONI**
 
 Connect with me:
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- ✉️ **Email**: your.email@example.com
-- 🐦 **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- 🐙 **GitHub**: [@yourusername](https://github.com/piyush64-bit)
+- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/piyush64bit)
+- ✉️ **Email**: piiyush.sonii@outlook.com
 
 ## 📄 License
 
